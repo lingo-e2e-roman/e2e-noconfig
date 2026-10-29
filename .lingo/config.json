@@ -1,0 +1,11 @@
+{
+  "orgId": "org_H4xo5NH7WqM0PxsBYV6B",
+  "engineId": "eng_vo3g9ClFjOAIsndDFjY4",
+  "sourceLocale": "en",
+  "targetLocales": ["de", "fr"],
+  "files": [{ "pattern": "locales/en.json" }],
+  "github": {
+    "workflows": { "onPushToDefaultBranch": { "enabled": true }, "onPullRequest": { "enabled": true } },
+    "safety": { "requireApproval": false }
+  }
+}
